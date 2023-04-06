@@ -1,4 +1,4 @@
-- 👋 Hi Minna-sama I\`m 2DLuffy
+- 👋 Hi Minna-sama I\`m Akira 
 - 👀 I’m interested in AI-technologies as well as anime 
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on various AI-related project
