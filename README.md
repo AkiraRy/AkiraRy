@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @2DLuffy
-- 👀 I’m interested in Gamedev and anime 
-- 🌱 I’m currently learning python and js
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi Minna-sama I\`m 2DLuffy
+- 👀 I’m interested in AI-technologies as well as anime 
+- 🌱 I’m currently learning python and java
+- 💞️ I’m looking to collaborate on various AI-related project
 - 📫 How to reach me: 
 
 <!---
