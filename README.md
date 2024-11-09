@@ -72,7 +72,7 @@ In future we want to make automatic clip generatoin based on a sudden change of 
 ## Overview:
 Have you ever dreamed of having someone with whom you can speak whenever you like? RAISE aims to solve this.
 Using telegram/discord as a chating interface, whisper for transcribing your voice messages and voicevox for voice generation.
-We also have a Weaviate vectordb to store your chat history data. Whenever you ask for something we first use similarity search on stored documents and retrieve relevant parts.
+We also have a Weaviate vectordb to store your chat history data. Whenever you ask for something we first use similarity search on stored documents to retrieve relevant parts.
 After that we prompt an LLM with all the info, giving you more related answers.
 
 In future i plan to make a classifier, using which we can classify user query for certain tasks. Based on those tasks we can enable our llm to do a lot of things.
