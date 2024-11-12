@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akira</h1>
-<h3 align="center">A passionate Prompt engineer and AI enthusiast from Ukraine.</h3>
+<h3 align="center">A passionate DS/ML and Python engineer from Ukraine.</h3>
 
 - 🎓 I study **Computer Science** at the [*Polish-Japanese Academy of Information Technology*](https://pja.edu.pl/en/)
 - ✨ In general I`m an enthusiastic and ambitious python developer. For now I specialise in Bot development for telegram/discord with use of LLM ang giving them personality, making them best version for chating.
