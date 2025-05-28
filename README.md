@@ -29,9 +29,6 @@
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp)](https://skillicons.dev)
 
-### Hosting
-[![My Skills](https://skillicons.dev/icons?i=gcp,azure)](https://skillicons.dev)
-
 ### Frameworks, Platforms && Libraries:
 [![My Skills](https://skillicons.dev/icons?i=docker,anaconda,arduino,bash,bots,fastapi,idea,md,mysql,nginx,notion,pycharm,pytorch,replit,sklearn,tensorflow,visualstudio,vscode&perline=5)](https://skillicons.dev)
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>   </p>
